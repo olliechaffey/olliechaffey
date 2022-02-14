@@ -1,9 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**olliechaffey/olliechaffey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+I am **Ollie Chaffey**, currently studying and working towards achieveing my **Bachelors** in **Computer Science & Cyber Security** (currenlty in my **second** year).
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Achievements
